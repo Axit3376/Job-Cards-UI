@@ -4,6 +4,8 @@ A responsive job listing card interface built using **React**, **CSS Grid**, and
 This project recreates a clean, modern job-card UI similar to professional job portals.
 
 ---
+## 📸 Screenshots
+- !['Screenshot of the site'](image.png)
 
 ## 🚀 Features
 
@@ -40,7 +42,5 @@ src/
 │── App.jsx
 │── main.jsx
 
-```jsx
 
-## 📸 Screenshots
-- !['Screenshot of the site'](image.png)
+
