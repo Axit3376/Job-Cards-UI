@@ -5,7 +5,7 @@ This project recreates a clean, modern job-card UI similar to professional job p
 
 ---
 ## 📸 Screenshots
-- !['Screenshot of the site'](image.png)
+- ![alt text](image-1.png)
 
 ## 🚀 Features
 
