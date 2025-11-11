@@ -40,5 +40,7 @@ src/
 │── App.jsx
 │── main.jsx
 
+```jsx
+
 ## 📸 Screenshots
 - !['Screenshot of the site'](image.png)
