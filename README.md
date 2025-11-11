@@ -4,6 +4,16 @@ A responsive job listing card interface built using **React**, **CSS Grid**, and
 This project recreates a clean, modern job-card UI similar to professional job portals.
 
 ---
+## Folder Structure
+src/
+│── Components/
+│    └── Card.jsx
+│── cards.css
+│── jobs.js          // Job data array
+│── App.jsx
+│── main.jsx
+
+
 ## 📸 Screenshots
 - !['Screenshot of the site'](image.png)
 
@@ -34,13 +44,6 @@ Job data is stored in a separate `jobs.js` file and imported into `App.jsx`, the
 ```jsx
 {jobs.map(job => <Card {...job} />)}
 
-src/
-│── Components/
-│    └── Card.jsx
-│── cards.css
-│── jobs.js          // Job data array
-│── App.jsx
-│── main.jsx
 
 
 
